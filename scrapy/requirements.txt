@@ -1,0 +1,6 @@
+scrapy
+configparser
+apscheduler
+pandas
+sqlalchemy
+psycopg2-binary # require by sqlalchemy
