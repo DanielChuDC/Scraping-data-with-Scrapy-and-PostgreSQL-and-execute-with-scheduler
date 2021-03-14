@@ -1,10 +1,7 @@
-import os
 import pandas as pd
-import sqlalchemy
 from sqlalchemy import create_engine
 
 DATABASE = {
-    "drivername": "postgres",
     "host": 'localhost',
     "port": '5432',
     "username": 'postgres',
